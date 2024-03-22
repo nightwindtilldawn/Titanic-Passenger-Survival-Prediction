@@ -1,6 +1,6 @@
 # Titanic Survival Prediction Project
 ## Project Overview
-This machine learning project aims to predict the survival chances of passengers aboard the RMS Titanic, which famously sank after colliding with an iceberg in 1912. By analyzing various factors such as age, sex, social status, and more, we develop models that can estimate survival probabilities for individuals under similar circumstances.
+This machine learning project aims to predict the survival chances of passengers aboard the RMS Titanic, a competition on Kaggle, which famously sank after colliding with an iceberg in 1912. By analyzing various factors such as age, sex, social status, and more, we develop models that can estimate survival probabilities for individuals under similar circumstances.
 
 Features and Dataset
 The dataset used for this project is derived from the Titanic passenger manifest and includes the following key features:
