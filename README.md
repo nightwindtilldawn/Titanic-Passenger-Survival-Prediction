@@ -1,4 +1,8 @@
 # Titanic Survival Prediction Project
+
+## Update
+it achieved a score of 0.7655 on Kaggle
+
 ## Project Overview
 This machine learning project aims to predict the survival chances of passengers aboard the RMS Titanic, a competition on Kaggle, which famously sank after colliding with an iceberg in 1912. By analyzing various factors such as age, sex, social status, and more, we develop models that can estimate survival probabilities for individuals under similar circumstances.
 
@@ -40,7 +44,7 @@ We perform data preprocessing to handle missing values and convert categorical v
 
 
 ## Results
-
+Women and upper class people are more likely to survive the titanic according to the dataset
 
 
 ## Contact
